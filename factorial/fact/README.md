@@ -31,3 +31,5 @@ Practicando la manera en que funcionan estos commits, todavía está algo confus
 
 https://en.wikipedia.org/wiki/Bear
 
+— Lista de los comandos de git:
+• Comando para clonar repositorio: "git clone <urldelrepo>"
