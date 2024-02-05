@@ -32,11 +32,15 @@ Practicando la manera en que funcionan estos commits, todavía está algo confus
 https://en.wikipedia.org/wiki/Bear
 
 — Lista de los comandos de git:
+
 • Comando para clonar repositorio: 
 "git clone <urldelrepo>"
+
 • Comando para adicionar el archivo fact.c al STAGE:
 "git add fact.c"
+
 • Comando para realizar un commit:
 "git commit -m "texto agregado al commit""
+
 • Comando para sincronizar con un repositorio remoto:
 "git pull <nombredelreporemoto> <master/nombredelbranch>"
