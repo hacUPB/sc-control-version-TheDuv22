@@ -27,3 +27,5 @@ EVALUACIÓN 1
 
 Practicando la manera en que funcionan estos commits, todavía está algo confuso.
 
+(https://discovery.sndimg.com/content/dam/images/discovery/fullset/2022/8/16/GettyImages-1354942979.jpg.rend.hgtvcom.1280.960.suffix/1660671005591.jpeg)
+
