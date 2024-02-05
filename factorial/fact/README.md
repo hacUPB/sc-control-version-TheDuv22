@@ -36,3 +36,6 @@ https://en.wikipedia.org/wiki/Bear
 "git clone <urldelrepo>"
 • Comando para adicionar el archivo fact.c al STAGE:
 "git add fact.c"
+• Comando para realizar un commit:
+"git commit -m "texto agregado al commit""
+
