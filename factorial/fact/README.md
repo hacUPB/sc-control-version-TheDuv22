@@ -38,4 +38,5 @@ https://en.wikipedia.org/wiki/Bear
 "git add fact.c"
 • Comando para realizar un commit:
 "git commit -m "texto agregado al commit""
-
+• Comando para sincronizar con un repositorio remoto:
+"git pull <nombredelreporemoto> <master/nombredelbranch>"
