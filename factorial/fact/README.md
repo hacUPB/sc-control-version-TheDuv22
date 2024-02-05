@@ -25,3 +25,5 @@ for details.
 
 EVALUACIÓN 1
 
+Practicando la manera en que funcionan estos commits, todavía está algo confuso.
+
